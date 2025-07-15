@@ -1,0 +1,20 @@
+div{
+    border: solid red 5px;
+    padding: 10px;
+    background-color: royalblue;
+    width: 300px;
+    height: 200px;
+}
+h1{
+    background-color: aqua;
+    width: 50%;
+    margin: auto;
+    top: 100px;
+    font-family: 'Roboto',sans-serif;
+
+
+    
+}
+h1:hover{
+    background-color: violet;
+}

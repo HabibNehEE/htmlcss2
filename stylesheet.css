@@ -1,0 +1,30 @@
+#sec{
+    color: brown;
+    background-color: beige;
+    text-align: center;
+}
+h1 {
+    background-color: aqua;
+}
+h1.green{
+    background-color: chartreuse;
+    /*text-align: right;*/
+}
+h2{
+    border-style: solid;
+    border-color: brown;
+    border-width: 5px 3px 10px 10px;
+    text-align: justify;
+    text-transform: capitalize;
+}
+div{
+    text-align: center;
+    padding: 20px;
+    background-color: blanchedalmond;
+    position: absolute;
+    width: 20%;
+
+}
+#filling{
+    width: 50%;
+}
